@@ -43,6 +43,9 @@ dependencies:
   - sphinx_rtd_theme
   - sqlalchemy
   - xlrd
+  - ploty
+  - tqdm
+  name: sklearn-tutorial
   - pip:
     - memory_profiler
     - sphinx-tabs
