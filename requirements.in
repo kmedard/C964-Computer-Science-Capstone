@@ -1,0 +1,16 @@
+numpy
+pandas
+plotly 
+tqdm
+literal_eval
+scikit_learn
+tensorflow
+tensorflow_addons 
+wordcloud
+Image
+matplotlib
+regex
+ipywidgets 
+scikit-learn
+sklearn
+PIL
