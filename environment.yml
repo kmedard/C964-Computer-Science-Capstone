@@ -43,6 +43,5 @@ dependencies:
   - sphinx_rtd_theme
   - sqlalchemy
   - xlrd
-  - ploty
   - tqdm
 
