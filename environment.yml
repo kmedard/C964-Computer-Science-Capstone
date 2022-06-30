@@ -6,12 +6,12 @@ dependencies:
   - pandas
   - plotly 
   - tqdm
-  - ast
-  - sklearn
+  - literal_eval
+  - scikit_learn
   - tensorflow
   - tensorflow_addons 
   - wordcloud
-  - PIL
+  - Image
   - matplotlib
-  - re
+  - regex
   - ipywidgets 
