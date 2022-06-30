@@ -45,10 +45,4 @@ dependencies:
   - xlrd
   - ploty
   - tqdm
-  
-  name: sklearn-tutorial
-  - pip:
-    - memory_profiler
-    - sphinx-tabs
-    - sphinx_rtd_theme_ext_color_contrast
-    - https://github.com/coderefinery/sphinx-lesson/archive/master.zip
+
