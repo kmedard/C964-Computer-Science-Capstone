@@ -22,10 +22,7 @@ dependencies:
   - regex
   - scipy
   - scikit-learn
-  - seaborn
-  - six
-  - smmap
-  - sqlalchemy
   - xlrd
   - tqdm
-
+  - pillow
+  
