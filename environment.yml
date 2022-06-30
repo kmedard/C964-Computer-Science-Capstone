@@ -1,0 +1,21 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - plotly.express
+  - plotly.graph_objects 
+  - tqdm
+  - ast
+  - sklearn.preprocessing
+  - sklearn.model_selection
+  - sklearn.decomposition
+  - sklearn.metrics
+  - tensorflow
+  - tensorflow_addons 
+  - wordcloud
+  - PIL - Image
+  - matplotlib.pyplot 
+  - re
+  - ipywidgets 
