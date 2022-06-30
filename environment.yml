@@ -45,6 +45,7 @@ dependencies:
   - xlrd
   - ploty
   - tqdm
+  
   name: sklearn-tutorial
   - pip:
     - memory_profiler
