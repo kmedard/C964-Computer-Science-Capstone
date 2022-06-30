@@ -4,18 +4,14 @@ channels:
 dependencies:
   - numpy
   - pandas
-  - plotly.express
-  - plotly.graph_objects 
+  - plotly 
   - tqdm
   - ast
-  - sklearn.preprocessing
-  - sklearn.model_selection
-  - sklearn.decomposition
-  - sklearn.metrics
+  - sklearn
   - tensorflow
   - tensorflow_addons 
   - wordcloud
-  - PIL - Image
-  - matplotlib.pyplot 
+  - PIL
+  - matplotlib
   - re
   - ipywidgets 
