@@ -1,2 +1,9 @@
 # C964-Computer-Science-Capstone
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kmedard/C964-Computer-Science-Capstone/main?labpath=tag_analyzer_(1)%20(1).ipynb)
+Use google colab to access
+1.	Use Google Colab to access
+2.	Upload the .csv and .json file into the project folder
+3.	Create, if it doesn't exist, a folder named "content"
+4.	Move files into the "content" folder
+5.	Run all cells 
+6.	Upon request, enter the ids of the tags you wish to test
+7.	Review the view count estimate
